@@ -1,0 +1,22 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="128"
+  height="25"
+  viewBox="0 0 128 25"
+>
+  <!-- Badge Background -->
+  <rect width="100%" height="100%" rx="5" fill="#3498db" />
+
+  <!-- Category Text -->
+  <text
+    x="50%"
+    y="50%"
+    alignment-baseline="middle"
+    text-anchor="middle"
+    fill="#fff"
+    font-size="12"
+    font-family="Arial, sans-serif"
+  >
+    Amazon SageMaker
+  </text>
+</svg>
